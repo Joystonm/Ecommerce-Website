@@ -33,7 +33,7 @@ const[close,setClose]=useState(false);
           <div className='detail'>
               <h4>{e.Cat}</h4>
               <h2>{e.Title}</h2>
-              <p>Module build failed (from ./node_modules/babel-loader/lib/index.js):</p>
+               <p>{e.Desc}</p>
               <h3>{e.Price}</h3>
               <button>Add to Cart</button>
           </div>

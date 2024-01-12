@@ -143,3 +143,17 @@ cursor: pointer;
     outline: none;
     cursor: pointer;
   }
+ .productbox .detail{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+  }
+  .productbox .detail p{
+    font-size: 18px;
+    color: rgb(115, 113, 113);
+  }
+  .productbox .detail h2{
+    text-transform: uppercase;
+  }
+  .productbox .detail h3{
+    font-size: 20px;
+  }
